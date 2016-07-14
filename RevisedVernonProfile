@@ -1,0 +1,45 @@
+<html/>
+<head>
+<link rel="stylesheet" href="stylesheet.css">
+<script src="profile.js"></script>
+<h1>Vernon Johnson's Profile</h1>
+</head>
+
+<body>
+<div id = "ProfilePhoto" >
+<img id = "profileph" src="Profilephoto.jpg" alt="Photo of Vernon"</img>
+</div>
+
+<div id = "Quote">
+<p class= "x"> "Because my environment was bare and bleak,
+  I endowed it with unlimited potentialities,
+  redeemed it for the sake of my own hungry and cloudy yearning." - Richard Wright, Black Boy</p>
+</div>
+<div id = "Bio">
+<h2>Bio</h2>
+  <p>Maturing in a low income and single parent household, Vernon Johnson learned the value of education and philosophical inquiry. Vernon's passion for learning started early. In elementary school he loved to read, write, and study science. He was also involved in Talented and Gifted programs throughout elementary and middle school. Vernon’s family and teachers have provided the support network necessary for his success. Particularly, his elementary school track coach, Ernest Sims, served as a positive role model and constantly pushed him to succeed.
+  </p>
+  <p> As a student at the Judge Barefoot Sanders Law Magnet, Vernon cultivated an enthusiasm for philosophy and the legal profession. Vernon's involvement in policy debate exposed him to a wide range of philosophies, including the works Jacques Lacan, Paulo Freire, Frantz Fanon, and other influential thinkers. The activity taught him the importance of agonism and how to use disagreement to foster the productive clash of ideas. Despite the lack of resources, Vernon and his partner, Crayton Gerst, consistently broke district records. They were the first in the history of the Dallas Independent School District to attend and qualify twice to the Tournament of Champions, the most prestigious and competitive high school debate tournament. Vernon and his partner were also the first in their school district to qualify twice and reach elimination rounds at the annual National Speech and Debate Association Tournament.
+  <p/>
+  <p>Vernon's success and ambition, however, does not stop there. Vernon also served as a US Ambassador to Japan with the Tomodachi Initiative. He had the opportunity to visit Sendai and Tokyo, Japan to enhance the cultural understanding between Japan and the US. Vernon was also one of thirty two students to attend the Telluride Association Summer Program at Cornell University, a seminar centered upon interrogating the linkages between literature, philosophy, and American identity. The Telluride Program further influenced his interests in philosophy, critical theory, and cultural studies.
+  </p>
+  <p>In addition, Vernon has consistently demonstrated leadership and dedication to community service. He founded the East Dallas Leadership Association to help mentor and tutor low income youth within his community. As President, Vernon emphasized the value of critical reflection and inquiry. He encouraged his fellow peers to interrogate the connections between education and larger structures of power. Vernon currently serves as President of the Townview Ambassadors, which is a student-led organization that assists in hosting school activities and community service projects. He also encourages environmentally friendly practices by participating in the Townview Recycling Club.
+  </p>
+  <p>Vernon will attend Columbia University as an undergraduate. He plans to major in Mechanical Engineering and minor in Psychology. His undergraduate research will be oriented towards developing technologies to help combat climate change. Vernon plans to leverage his Psychology minor to interrogate the anxieties and drives that generate public apathy towards the climate problem. After achieving his undergraduate degree, Vernon plans to attend law school to become a patent attorney. His legal work will be dedicated to assisting innovators achieve patents for climate mitigation technologies. It is clear that will be an asset to both his community and society writ large.
+  </p>
+</div>
+<div "Otherinfo">
+<h2>Hometown</h2>
+<p> Dallas, Texas</p>
+<h2>University</h2>
+<p> Columbia University in the City of  New York </p>
+</ol>
+<h2> Connect with Vernon </h2>
+<p> <a href="https://www.facebook.com/vernonjohnson23"><img height="32" width="32" src="facebookicon.png"> </a>
+<a href="https://www.instagram.com/vernonjohnson23/"><img height="32" width="32" src="instagramicon.jpeg"></a>
+</p>
+
+</div>
+<h2 id="c"> <a href="https://thehub.dallasisd.org/2016/05/12/super-scholars-law-magnet-debate-star-bound-for-columbia-with-full-ride-scholarship/">Interview with Vernon Johnson </h2>
+</body>
+</html>
